@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+hr{
+  color: black;
+}
+.home{
+  text-decoration: overline;
+}
+img{
+  width: 300px;
+  border: 3px;
+  border-color: white;
+  border-style:inset;
+  border-radius: 20px;
+  float: left;
+}
+h2{
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+body {
+  background-color: palevioletred;
+  color: aquamarine;
+  font-family: monospace;
+}
+p {
+  
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+#exception{
+  font-size: 10px;
+}
+h2{
+  text-align: center;
+}
+ol{
+  text-align: center;
+}
+img{
+  width: 300px;
+  border: 3px;
+  border-color: cyan;
+  border-style: dashed;
+  border-radius: 20px;
+  float: justify;
+}
+.home{
+  text-decoration: overline;
+}

@@ -1,0 +1,27 @@
+body {
+  background-color: lightgrey;
+  font-family: sans-serif;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+img{
+  width: 300px;
+  border: 3px;
+  border-color: darkgray;
+  border-style: dotted;
+  border-radius: 25px;
+}
+ol{
+  text-align: center;
+}
+.home{
+  text-decoration: overline;
+}

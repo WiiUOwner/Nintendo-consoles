@@ -1,0 +1,21 @@
+body {
+  background-color: cyan;
+  font-family: fantasy;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+img{
+  width: 300px;
+  border: 4px;
+  border-color: white;
+  border-style:groove;
+  border-radius: 25px;
+}
+.deez{
+  text-decoration: overline;
+}
